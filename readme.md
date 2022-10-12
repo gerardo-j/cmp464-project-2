@@ -1,4 +1,4 @@
-# CMP 426 - Project 2
+# CMP 464 - Project 2
 
 ## Installation
 
